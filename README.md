@@ -1,6 +1,6 @@
 ## JavaScript :computer:
 
-Activity to practice async/await.
+Learned about Promises, async/await, fetch, and did some practice.
 
 ------
 
